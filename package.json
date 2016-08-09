@@ -1,0 +1,25 @@
+{
+  "name": "remote_db",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanauj/remote_db.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanauj/remote_db/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.3",
+    "mysql": "~2.10.0",
+    "body-parser": "~1.14.2",
+    "multer": "~1.1.0",
+    "express-session": "~1.12.1",
+  }
+}
